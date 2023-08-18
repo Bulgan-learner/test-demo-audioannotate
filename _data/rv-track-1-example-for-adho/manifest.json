@@ -22,7 +22,7 @@
       {
         "id": "https://Bulgan-learner.github.io/test-demo-audioannotate/rv-track-1-example-for-adho/canvas-1/canvas",
         "type": "Canvas",
-        "duration": 144.0,
+        "duration": 145.0,
         "items": [
           {
             "id": "https://Bulgan-learner.github.io/test-demo-audioannotate/rv-track-1-example-for-adho/canvas-1/paintings",
@@ -36,7 +36,7 @@
                   "id": "https://ia802709.us.archive.org/2/items/rv-track-1/RV_Track%201.mp3",
                   "type": "Sound",
                   "format": "audio/mp3",
-                    "duration": 144.0
+                    "duration": 145.0
                 },
                 "target": "https://Bulgan-learner.github.io/test-demo-audioannotate/rv-track-1-example-for-adho/canvas-1/canvas"
               }
